@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João victor Ribas
 
 
-- 🌱 Estudando Swift
+- 🌱 Estudando PHP
 - 📫 How to reach me: jvribascoelho@gmail.com
 
 <div align="center">
